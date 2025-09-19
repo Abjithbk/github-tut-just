@@ -15,4 +15,5 @@
       }
 
       index = (index + 1) % colors.length;
-    }, 100);
+    }, 50
+  ); 
